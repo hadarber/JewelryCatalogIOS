@@ -42,9 +42,7 @@ Jewelry Catalog is an iOS application that showcases a collection of jewelry ite
 
 To initialize Firebase Realtime Database:
 
-```swift
-import FirebaseDatabase
-
+```bash
 private let ref = Database.database().reference().child("jewelry")
 
 private func fetchJewelryData() {
@@ -114,7 +112,6 @@ private func fetchJewelryData() {
     present(alertController, animated: true, completion: nil)
 }
     ```
-
 
 ## Deleting Jewelry
 
