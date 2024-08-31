@@ -36,7 +36,7 @@ Jewelry Catalog is an iOS application that showcases a collection of jewelry ite
 
 
 ## Video
-[Watch the demo video](path/to/demo-video.mp4)
+[Watch the demo video]([path/to/demo-video.mp4](https://drive.google.com/file/d/15l-DIns4bgRckbcud_TaNxkpafs3ox1L/view?usp=sharing))
 
 ## Technologies Used
 - **iOS Development:** UIKit
