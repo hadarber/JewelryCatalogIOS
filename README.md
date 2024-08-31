@@ -113,6 +113,7 @@ private func fetchJewelryData() {
     
     present(alertController, animated: true, completion: nil)
 }
+    ```
 
 
 ## Deleting Jewelry
@@ -121,6 +122,8 @@ private func fetchJewelryData() {
 private func deleteJewelry(_ jewelry: Jewelry) {
     ref.child(jewelry.id).removeValue()
 }
+    ```
+
 
 
 ## Purchasing Item
@@ -131,6 +134,8 @@ private func deleteJewelry(_ jewelry: Jewelry) {
     alert.addAction(UIAlertAction(title: "OK", style: .default, handler: nil))
     present(alert, animated: true, completion: nil)
 }
+    ```
+
 
 
 ## Installation
@@ -138,6 +143,8 @@ Clone the repository:
 
 ```swift
 git clone https://github.com/hadarber/JewelryCatalogIOS.git
+    ```
+
 Open the project in Xcode.
 
 Install Firebase
