@@ -12,9 +12,6 @@ Jewelry Catalog is an iOS application that showcases a collection of jewelry ite
 
 ## Screenshots
 
-## Screenshots
-## Screenshots
-
 <img src="https://github.com/user-attachments/assets/f6203098-0e4d-4ddb-b361-c91d4fa25d22" alt="Screenshot1" width="300"/>
 
 
