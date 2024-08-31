@@ -12,19 +12,14 @@ Jewelry Catalog is an iOS application that showcases a collection of jewelry ite
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/f6203098-0e4d-4ddb-b361-c91d4fa25d22)
-
-![image](https://github.com/user-attachments/assets/9114ec95-6bc3-41fe-ba34-6b46b3da743b)
-
-![image](https://github.com/user-attachments/assets/f8f75a54-fd2b-47e3-93bc-566403390731)
-
-![image](https://github.com/user-attachments/assets/d558a721-58c7-4eb4-a8bf-47729757de11)
-
-![image](https://github.com/user-attachments/assets/20731d3f-20ae-4a37-99b7-3d0fd80d9955)
-
-![image](https://github.com/user-attachments/assets/265181e9-863d-45d6-a19a-7a6d685a2f98)
-
-![image](https://github.com/user-attachments/assets/e5537bd3-13ff-48c2-9d4c-35cd0d449d05)
+## Screenshots
+![Screenshot1](https://github.com/user-attachments/assets/f6203098-0e4d-4ddb-b361-c91d4fa25d22)
+![Screenshot2](https://github.com/user-attachments/assets/9114ec95-6bc3-41fe-ba34-6b46b3da743b)
+![Screenshot3](https://github.com/user-attachments/assets/f8f75a54-fd2b-47e3-93bc-566403390731)
+![Screenshot4](https://github.com/user-attachments/assets/d558a721-58c7-4eb4-a8bf-47729757de11)
+![Screenshot5](https://github.com/user-attachments/assets/20731d3f-20ae-4a37-99b7-3d0fd80d9955)
+![Screenshot6](https://github.com/user-attachments/assets/265181e9-863d-45d6-a19a-7a6d685a2f98)
+![Screenshot7](https://github.com/user-attachments/assets/e5537bd3-13ff-48c2-9d4c-35cd0d449d05)
 
 
 ## Video
